@@ -7,6 +7,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 3 - Foreign Key Constraint
 - ✅ Part 4 - Default Constraint
 - ✅ Part 5 - Cascading Referential Integrity Constraint
+- ✅ Part 6 - Check Constraint
 
 ## 📚 SQL Server Topics
 
@@ -15,6 +16,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 3 | Foreign Key Constraint | ✅ |
 | Part 4 | Default Constraint | ✅ |
 | Part 5 | Cascading Referential Integrity Constraint | ✅ |
+| Part 6 | Check Constraint | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
