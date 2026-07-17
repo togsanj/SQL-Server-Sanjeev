@@ -10,6 +10,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 6 - Check Constraint
 - ✅ Part 7 - Identity Column
 - ✅ Part 8 - SCOPE_IDENTITY(), @@IDENTITY & IDENT_CURRENT
+- ✅ Part 9 - Unique Key Constraint
 
 ## 📚 SQL Server Topics
 
@@ -21,6 +22,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 6 | Check Constraint | ✅ |
 | Part 7 | Identity Column | ✅ |
 | Part 8 | SCOPE_IDENTITY(), @@IDENTITY & IDENT_CURRENT | ✅ |
+| Part 9 | Unique Key Constraint | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
