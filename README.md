@@ -9,17 +9,20 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 5 - Cascading Referential Integrity Constraint
 - ✅ Part 6 - Check Constraint
 - ✅ Part 7 - Identity Column
+- ✅ Part 8 - SCOPE_IDENTITY(), @@IDENTITY & IDENT_CURRENT
 
 ## 📚 SQL Server Topics
 
 | Part | Topic | Status |
-|------|------------------------------|--------|
+|------|----------------------------------------------|--------|
 | Part 3 | Foreign Key Constraint | ✅ |
 | Part 4 | Default Constraint | ✅ |
 | Part 5 | Cascading Referential Integrity Constraint | ✅ |
 | Part 6 | Check Constraint | ✅ |
 | Part 7 | Identity Column | ✅ |
+| Part 8 | SCOPE_IDENTITY(), @@IDENTITY & IDENT_CURRENT | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
+
 ⭐ More SQL Server topics, interview questions, and lecture-wise SQL scripts will be added regularly.
