@@ -12,6 +12,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 8 - SCOPE_IDENTITY(), @@IDENTITY & IDENT_CURRENT
 - ✅ Part 9 - Unique Key Constraint
 - ✅ Part 10 - SELECT Statement
+- ✅ Part 11 - GROUP BY Clause
 
 ## 📚 SQL Server Topics
 
@@ -25,6 +26,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 8 | SCOPE_IDENTITY(), @@IDENTITY & IDENT_CURRENT | ✅ |
 | Part 9 | Unique Key Constraint | ✅ |
 | Part 10 | SELECT Statement (DISTINCT, WHERE, LIKE, ORDER BY, TOP, Wildcards & Operators) | ✅ |
+| Part 11 | GROUP BY Clause (GROUP BY, HAVING, Aggregate Functions & WHERE vs HAVING) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
