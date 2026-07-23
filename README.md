@@ -14,6 +14,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 10 - SELECT Statement
 - ✅ Part 11 - GROUP BY Clause
 - ✅ Part 12 - Joins (INNER, LEFT, RIGHT, FULL & CROSS JOIN)
+- ✅ Part 13 - Advanced Joins (Finding Non-Matching Rows)
 
 ## 📚 SQL Server Topics
 
@@ -29,6 +30,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 10 | SELECT Statement (DISTINCT, WHERE, LIKE, ORDER BY, TOP, Wildcards & Operators) | ✅ |
 | Part 11 | GROUP BY Clause (GROUP BY, HAVING, Aggregate Functions & WHERE vs HAVING) | ✅ |
 | Part 12 | Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN & CROSS JOIN) | ✅ |
+| Part 13 | Advanced Joins (Finding Non-Matching Rows using LEFT, RIGHT & FULL JOIN) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
