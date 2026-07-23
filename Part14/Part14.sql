@@ -8,7 +8,7 @@ GO
 /*
 In this session we will learn 
 
-1.Joining a table with iyself - Self Join
+1.Joining a table with iTself - Self Join
 2.Self Join can be classified as
   -- Inner Self Join
   -- Outer Self Join (Left, Right and Full)
@@ -44,15 +44,27 @@ In this session we will learn
   SELECT    E.Name AS Employee, M.Name AS Manager
   FROM      tblEmployee E
   LEFT JOIN tblEmployee M
-  ON        E.ManagerId = M.EmployeeId
+  ON        E.ManagerId = M.EmployeeId;
 
-  SELECT * FROM tblEmployee;
+  -- RIGHT OUTER SELF JOIN
+  SELECT E.Name AS Employee, M.Name AS Manager
+  FROM   tblEmployee E
+  RIGHT JOIN tblEmployee M
+  ON      E.ManagerId = M.EmployeeId;
 
-  -- INNER SELF JOIN 
+  -- INNER SELF JOIN
   SELECT E.Name AS Employee, M.Name AS Manager
   FROM tblEmployee E
   INNER JOIN tblEmployee M
-  ON E.ManagerId = M.EmployeeId
+  ON      E.ManagerId = M.EmployeeID;
+  
+  SELECT * FROM tblEmployee;
+
+  -- FULL OUTER SELF JOIN 
+  SELECT E.Name AS Employee, M.Name AS Manager
+  FROM tblEmployee E
+  FULL JOIN tblEmployee M
+  ON E.ManagerId = M.EmployeeId;
 
  -- CROSS SELF JOIN 
  SELECT E.Name AS Employee, M.Name AS Manager

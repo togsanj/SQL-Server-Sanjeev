@@ -16,6 +16,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 12 - Joins (INNER, LEFT, RIGHT, FULL & CROSS JOIN)
 - ✅ Part 13 - Advanced Joins (Finding Non-Matching Rows)
 - ✅ Part 14 - Self Join (INNER, LEFT OUTER, RIGHT OUTER, FULL OUTER & CROSS SELF JOIN)
+- ✅ Part 15 - Replacing NULL Values (ISNULL(), CASE Statement & COALESCE())
 
 ## 📚 SQL Server Topics
 
@@ -33,6 +34,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 12 | Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN & CROSS JOIN) | ✅ |
 | Part 13 | Advanced Joins (Finding Non-Matching Rows using LEFT, RIGHT & FULL JOIN) | ✅ |
 | Part 14 | Self Join (INNER SELF JOIN, LEFT OUTER SELF JOIN, RIGHT OUTER SELF JOIN, FULL OUTER SELF JOIN & CROSS SELF JOIN) | ✅ |
+| Part 15 | Replacing NULL Values (ISNULL(), CASE Statement & COALESCE()) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
