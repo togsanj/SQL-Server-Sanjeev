@@ -1,9 +1,11 @@
 -- COALESCE() function in SQL Server
 
+/*
 In this session we will learn
 COALESCE() function with an example
 
 COALESCE() Function - Returns the first NON NULL value
+*/
 
 CREATE DATABASE Part16Sample;
 
@@ -23,10 +25,12 @@ INSERT INTO tblEmployee (Id, FirstName, MiddleName, LastName) VALUES
 (2, NULL, 'Todd', 'Tanzan'),
 (3, NULL, NULL, 'Sara'),
 (4, 'Ben', 'Paker', NULL),
-(5, 'James', 'Nick', 'Nancy')
+(5, 'James', 'Nick', 'Nancy');
 
 
 SELECT * FROM tblEmployee;
 
-SELECT Id, COALESCE(FirstName, MiddleName, LastName) AS Name
+SELECT 
+Id, 
+COALESCE(FirstName, MiddleName, LastName) AS Name
 FROM tblEmployee;
