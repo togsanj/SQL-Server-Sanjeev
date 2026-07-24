@@ -67,7 +67,7 @@ SELECT Id, Name, Email FROM tblUKCustomers
 
 
 -- UNION ALL
-SELECT Id, Name, Email FROM tblIndiaCistomers
+SELECT Id, Name, Email FROM tblIndiaCustomers
 UNION ALL
 SELECT Id, Name, Email FROM tblUKCustomers
 
