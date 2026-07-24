@@ -20,6 +20,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 16 - COALESCE() Function (Returns the First NON NULL Value)
 - ✅ Part 17 - UNION & UNION ALL
 - ✅ Part 18 - Stored Procedures (WITH Input Parameters)
+- ✅ Part 19 - Stored Procedures (WITH Output Parameters)
 
 ## 📚 SQL Server Topics
 
@@ -41,6 +42,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 16 | COALESCE() Function (Returns the First NON NULL Value) | ✅ |
 | Part 17 | UNION & UNION ALL (UNION vs UNION ALL, UNION vs JOIN, ORDER BY with UNION) | ✅ |
 | Part 18 | Stored Procedures (CREATE, EXECUTE, Input Parameters, ALTER, DROP, sp_helptext & WITH ENCRYPTION) | ✅ |
+| Part 19 | Stored Procedures (Output Parameters, sp_help, sp_helptext & sp_depends) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
