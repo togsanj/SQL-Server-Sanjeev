@@ -201,3 +201,110 @@ Outer Joins are again divided into
  Full Join | Returns all rows from both tables, including the non matching rows.
 
  */
+
+
+ /*
+ # Part 12 – SQL Server JOINS (Interview Questions)
+
+## Basic Questions
+
+1. What is a JOIN in SQL Server?
+2. Why do we use JOINs?
+3. What is the purpose of JOINs?
+4. Can JOINs be used without a Foreign Key?
+5. What are the different types of JOINs in SQL Server?
+6. What is the general syntax of a JOIN?
+
+## INNER JOIN Questions
+
+7. What is an INNER JOIN?
+8. Why do we use an INNER JOIN?
+9. What does an INNER JOIN return?
+10. Is `JOIN` the same as `INNER JOIN`?
+11. What happens to non-matching rows in an INNER JOIN?
+
+## LEFT JOIN Questions
+
+12. What is a LEFT JOIN?
+13. Why do we use a LEFT JOIN?
+14. What does a LEFT JOIN return?
+15. What is the difference between `LEFT JOIN` and `LEFT OUTER JOIN`?
+16. Which table is considered the left table in a LEFT JOIN?
+
+## RIGHT JOIN Questions
+
+17. What is a RIGHT JOIN?
+18. Why do we use a RIGHT JOIN?
+19. What does a RIGHT JOIN return?
+20. What is the difference between `RIGHT JOIN` and `RIGHT OUTER JOIN`?
+21. Which table is considered the right table in a RIGHT JOIN?
+
+## FULL JOIN Questions
+
+22. What is a FULL JOIN?
+23. Why do we use a FULL JOIN?
+24. What does a FULL JOIN return?
+25. What is the difference between `FULL JOIN` and `FULL OUTER JOIN`?
+26. When should you use a FULL JOIN?
+
+## CROSS JOIN Questions
+
+27. What is a CROSS JOIN?
+28. Why do we use a CROSS JOIN?
+29. What is a Cartesian Product?
+30. How many rows are returned by a CROSS JOIN?
+31. Does a CROSS JOIN require an `ON` clause?
+32. Why should CROSS JOIN be used carefully?
+
+## Comparison Questions
+
+33. What is the difference between INNER JOIN and LEFT JOIN?
+34. What is the difference between LEFT JOIN and RIGHT JOIN?
+35. What is the difference between INNER JOIN and FULL JOIN?
+36. What is the difference between CROSS JOIN and INNER JOIN?
+37. Which JOIN returns only matching rows?
+38. Which JOIN returns all rows from the left table?
+39. Which JOIN returns all rows from the right table?
+40. Which JOIN returns all rows from both tables?
+
+## Practical Questions
+
+41. Write a query using an INNER JOIN.
+42. Write a query using a LEFT JOIN.
+43. Write a query using a RIGHT JOIN.
+44. Write a query using a FULL JOIN.
+45. Write a query using a CROSS JOIN.
+46. Write the general syntax of a JOIN.
+
+## Scenario-Based Questions
+
+47. Can two tables be joined without a Foreign Key?
+48. What happens if there are no matching rows in an INNER JOIN?
+49. What happens if there are NULL values in the join column?
+50. Which JOIN would you use to display all employees, including those without a department?
+51. Which JOIN would you use to display all departments, including those with no employees?
+52. Which JOIN would you use to display all employees and all departments, including unmatched records?
+53. When should you use a CROSS JOIN in real-world applications?
+
+## Real-World Questions
+
+54. Where are JOINs used in real-world applications?
+55. Give a real-world example of an INNER JOIN.
+56. Give a real-world example of a LEFT JOIN.
+57. Give a real-world example of a RIGHT JOIN.
+58. Give a real-world example of a FULL JOIN.
+59. Give a real-world example of a CROSS JOIN.
+
+# ⭐ Most Important Questions (Freshers)
+
+1. What is a JOIN in SQL Server?
+2. Why do we use JOINs?
+3. What are the different types of JOINs?
+4. What is an INNER JOIN?
+5. What is a LEFT JOIN?
+6. What is a RIGHT JOIN?
+7. What is a FULL JOIN?
+8. What is a CROSS JOIN?
+9. What is the difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, and CROSS JOIN?
+10. Which JOIN would you use to display all employees, including those without a department?
+*/

@@ -21,6 +21,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 17 - UNION & UNION ALL
 - ✅ Part 18 - Stored Procedures (WITH Input Parameters)
 - ✅ Part 19 - Stored Procedures (WITH Output Parameters)
+- ✅ Part 20 - Stored Procedures (Return Values vs Output Parameters)
 
 ## 📚 SQL Server Topics
 
@@ -43,6 +44,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 17 | UNION & UNION ALL (UNION vs UNION ALL, UNION vs JOIN, ORDER BY with UNION) | ✅ |
 | Part 18 | Stored Procedures (CREATE, EXECUTE, Input Parameters, ALTER, DROP, sp_helptext & WITH ENCRYPTION) | ✅ |
 | Part 19 | Stored Procedures (Output Parameters, sp_help, sp_helptext & sp_depends) | ✅ |
+| Part 20 | Stored Procedures (Return Values, Return Status, OUTPUT Parameters vs Return Values & Best Practices) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---

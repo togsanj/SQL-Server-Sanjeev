@@ -83,3 +83,83 @@ In this session we will learn
 
  */
 
+ /*
+ # Part 14 – SELF JOIN (Interview Questions)
+
+## Basic Questions
+
+1. What is a SELF JOIN?
+2. Why do we use a SELF JOIN?
+3. What is the purpose of a SELF JOIN?
+4. Is SELF JOIN a separate type of JOIN?
+5. Can a table be joined with itself?
+6. Why do we use table aliases (`E`, `M`) in a SELF JOIN?
+
+## Concept Questions
+
+7. How does a SELF JOIN work?
+8. What is the role of aliases in a SELF JOIN?
+9. What happens if aliases are not used in a SELF JOIN?
+10. Which column is commonly used to relate rows in a SELF JOIN?
+11. Can a SELF JOIN be performed without a Foreign Key?
+12. What kind of relationships are represented using a SELF JOIN?
+
+## Types of SELF JOIN
+
+13. What is an INNER SELF JOIN?
+14. What is a LEFT SELF JOIN?
+15. What is a RIGHT SELF JOIN?
+16. What is a FULL SELF JOIN?
+17. What is a CROSS SELF JOIN?
+18. Is a SELF JOIN limited to only INNER JOIN?
+
+## Comparison Questions
+
+19. What is the difference between a normal JOIN and a SELF JOIN?
+20. What is the difference between an INNER SELF JOIN and a LEFT SELF JOIN?
+21. What is the difference between a LEFT SELF JOIN and a RIGHT SELF JOIN?
+22. What is the difference between a FULL SELF JOIN and a CROSS SELF JOIN?
+23. Why is a CROSS SELF JOIN rarely used?
+
+## Practical Questions
+
+24. Write a query to display Employee Name and Manager Name using a SELF JOIN.
+25. Write a query using an INNER SELF JOIN.
+26. Write a query using a LEFT SELF JOIN.
+27. Write a query using a RIGHT SELF JOIN.
+28. Write a query using a FULL SELF JOIN.
+29. Write a query using a CROSS SELF JOIN.
+
+## Scenario-Based Questions
+
+30. Why is a LEFT SELF JOIN preferred in an Employee–Manager relationship?
+31. Why does the CEO/Top Manager show `NULL` in the Manager column?
+32. What happens if an employee has no manager?
+33. Can an employee be his own manager?
+34. Can multiple employees have the same manager?
+35. Where are SELF JOINs used in real-world applications?
+
+## Real-World Questions
+
+36. Give a real-world example of a SELF JOIN.
+37. Where is a SELF JOIN commonly used?
+38. What are the advantages of using a SELF JOIN?
+39. What are the limitations of a SELF JOIN?
+40. Explain the Employee–Manager hierarchy using a SELF JOIN.
+
+# ⭐ Most Important Questions (Freshers)
+
+1. What is a SELF JOIN?
+2. Why do we use a SELF JOIN?
+3. Is SELF JOIN a separate type of JOIN?
+4. Why are table aliases required in a SELF JOIN?
+5. What is the difference between a normal JOIN and a SELF JOIN?
+6. Can a SELF JOIN be an INNER, LEFT, RIGHT, FULL, or CROSS JOIN?
+7. Write a query to display Employee Name and Manager Name using a SELF JOIN.
+8. Why does the top-level manager (CEO) have a `NULL` ManagerId?
+9. Where are SELF JOINs used in real-world applications?
+10. Explain the Employee–Manager hierarchy using a SELF JOIN.
+
+*/
+
+

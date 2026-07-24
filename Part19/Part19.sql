@@ -68,12 +68,14 @@ PRINT @EmployeeTotal
 SELECT * FROM tblEmployee;
 
 CREATE PROCEDURE spGetEmployeeCountByGender
-@Gender NVARCHAR(20),
-@EmployeeCount INT OUTPUT
+@Gender NVARCHAR(20),     --Input Parameter
+@EmployeeCount INT OUTPUT  -- Output Parameter
 AS
 BEGIN
     SELECT @EmployeeCount = COUNT(Id) FROM tblEmployee WHERE Gender = @Gender
 END
+
+
 
 Declare @TotalCount INT 
 Execute spGetEmployeeCountByGender 'Male', @TotalCount OUTPUT
@@ -109,3 +111,82 @@ sp_helptext spGetEmployeeCountByGender
 sp_depends spGetEmployeeCountByGender
 
 sp_depends tblEmployee
+
+-- ## INTERVIEW PREPARATION ##
+/*
+## ## Stored Procedure & OUTPUT Parameter
+
+1. What is an OUTPUT Parameter?
+2. Why do we use OUTPUT Parameters in Stored Procedures?
+3. What is the syntax for creating an OUTPUT Parameter?
+4. Which keywords are used to declare an OUTPUT Parameter (OUT or OUTPUT)?
+5. What is the difference between an Input Parameter and an OUTPUT Parameter?
+6. How do you create a Stored Procedure with an OUTPUT Parameter?
+7. How do you execute a Stored Procedure with an OUTPUT Parameter?
+8. How do OUTPUT Parameters return values to the caller?
+9. Why do we declare a variable before executing a Stored Procedure with an OUTPUT Parameter?
+10. Why do we specify the OUTPUT keyword while creating the Stored Procedure?
+11. Why do we specify the OUTPUT keyword while executing the Stored Procedure?
+12. What happens if the OUTPUT keyword is omitted while executing the Stored Procedure?
+13. Can we pass parameters by position and by name while executing a Stored Procedure?
+14. What are positional parameters?
+15. What are named parameters?
+16. What is the difference between positional parameters and named parameters?
+17. Can named parameters be passed in any order?
+18. Can positional parameters be passed in any order?
+19. Which execution style is better: positional parameters or named parameters? Why?
+20. Can we mix positional parameters and named parameters in the same Stored Procedure call?
+21. Can a Stored Procedure have multiple OUTPUT Parameters?
+22. Can a Stored Procedure have both Input and OUTPUT Parameters?
+23. What data types can be used with OUTPUT Parameters?
+24. Can OUTPUT Parameters return NULL values?
+25. Can OUTPUT Parameters return multiple values?
+
+## Practical Questions
+
+26. Write a Stored Procedure to return the total number of Male employees using an OUTPUT Parameter.
+27. Write a Stored Procedure to return Employee Name using an OUTPUT Parameter.
+28. Write a Stored Procedure with two OUTPUT Parameters.
+29. Write a Stored Procedure with one Input Parameter and one OUTPUT Parameter.
+30. Execute a Stored Procedure using positional parameters.
+31. Execute a Stored Procedure using named parameters.
+
+## Scenario-Based Questions
+
+32. When should you use an OUTPUT Parameter?
+33. Where are OUTPUT Parameters used in real-world applications?
+34. What happens if the query inside the Stored Procedure returns no rows?
+35. What happens if an OUTPUT Parameter is never assigned a value?
+36. What happens if the caller variable datatype doesn't match the OUTPUT Parameter datatype?
+37. Why is an OUTPUT Parameter better than using only a SELECT statement in some scenarios?
+
+## System Stored Procedure Questions
+
+38. What is `sp_help`?
+39. What information does `sp_help` return?
+40. Can `sp_help` be used only with Stored Procedures?
+41. What is the shortcut key for `sp_help` in SQL Server Management Studio?
+42. What is `sp_helptext`?
+43. What is `sp_helptext` used for?
+44. What is `sp_depends`?
+45. Why is `sp_depends` useful before dropping a table or another database object?
+46. Can `sp_depends` be used with tables as well as Stored Procedures?
+
+---
+
+# ⭐ Most Important Questions (Freshers) – Part 19
+
+1. What is an OUTPUT Parameter?
+2. Why do we use OUTPUT Parameters?
+3. What is the difference between an Input Parameter and an OUTPUT Parameter?
+4. How do you create a Stored Procedure with an OUTPUT Parameter?
+5. How do you execute a Stored Procedure with an OUTPUT Parameter?
+6. Why do we use the `OUTPUT` keyword while executing the Stored Procedure?
+7. What happens if the `OUTPUT` keyword is omitted while executing the Stored Procedure?
+8. What is the difference between positional parameters and named parameters?
+9. Which execution style is better: positional parameters or named parameters? Why?
+10. Can named parameters be passed in any order?
+11. Can a Stored Procedure have multiple OUTPUT Parameters?
+12. What are `sp_help`, `sp_helptext`, and `sp_depends`? Explain their purpose.
+13. Write a Stored Procedure that returns Employee Count using an OUTPUT Parameter.
+*/

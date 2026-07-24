@@ -92,3 +92,66 @@ DROP CONSTRAINT DF_tblPerson_Age;
 
 ALTER TABLE tblPerson
 DROP COLUMN Age;
+
+/*
+# Part 4 – Default Constraint (Interview Questions)
+
+## Basic Questions
+
+1. What is a Default Constraint?
+2. Why do we use a Default Constraint?
+3. What is the purpose of a Default Constraint?
+4. What is the syntax for creating a Default Constraint?
+5. Can a table have multiple Default Constraints?
+6. Can multiple columns have their own Default Constraints?
+7. Which data types support Default Constraints?
+
+## Practical Questions
+
+8. How do you add a Default Constraint to an existing column?
+9. How do you add a new column with a Default Constraint?
+10. How do you drop a Default Constraint?
+11. How do you remove a column that has a Default Constraint?
+12. How do you find the name of a Default Constraint?
+
+## Concept Questions
+
+13. What happens if a value is not specified for a column that has a Default Constraint?
+14. Does a Default Constraint work when an explicit value is provided?
+15. Does a Default Constraint replace NULL values?
+16. What happens if NULL is explicitly inserted into a nullable column with a Default Constraint?
+17. Can a Default Constraint be used on a NOT NULL column?
+18. Can a Default Constraint be used with a Foreign Key column?
+19. Can we use expressions or functions (such as `GETDATE()`) as default values?
+
+## Scenario-Based Questions
+
+20. What happens if you insert a record without specifying the GenderID when the default value is 3?
+21. What happens if the default value does not exist in the referenced parent table?
+22. Why was the default value set to 3 for `GenderID` in this example?
+23. In which situations should you use a Default Constraint?
+24. Where are Default Constraints used in real-world applications?
+
+## Interview-Based Questions
+
+25. What is the difference between a Default Constraint and a NOT NULL Constraint?
+26. What is the difference between a Default Constraint and allowing NULL values?
+27. Can a column have both a Default Constraint and a Foreign Key Constraint?
+28. Can a Default Constraint be changed after it is created?
+29. What are the advantages of using Default Constraints?
+30. Write the SQL syntax to create, drop, and use a Default Constraint.
+
+# ⭐ Most Important Questions (Freshers)
+
+1. What is a Default Constraint?
+2. Why do we use a Default Constraint?
+3. What happens if no value is provided for a column that has a Default Constraint?
+4. What happens if NULL is explicitly inserted into a column with a Default Constraint?
+5. Can a Default Constraint be used with a Foreign Key column?
+6. How do you add a Default Constraint using `ALTER TABLE`?
+7. How do you drop a Default Constraint?
+8. Can a column have both a Default Constraint and a NOT NULL Constraint?
+9. What is the difference between a Default Constraint and a NOT NULL Constraint?
+10. Write the SQL syntax to create a Default Constraint.
+
+*/
