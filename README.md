@@ -23,7 +23,8 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 19 - Stored Procedures (WITH Output Parameters)
 - ✅ Part 20 - Stored Procedures (Return Values vs Output Parameters)
 - ✅ Part 21 - Advantages of Stored Procedures
-- ✅ Part 22 - String Functions
+- ✅ Part 22 - String Functions (ASCII, CHAR, LTRIM, RTRIM, UPPER, LOWER, REVERSE & LEN)
+- ✅ Part 23 - String Functions Continued (LEFT, RIGHT, CHARINDEX & SUBSTRING)
 
 ## 📚 SQL Server Topics
 
@@ -49,6 +50,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 20 | Stored Procedures (Return Values, Return Status, OUTPUT Parameters vs Return Values & Best Practices) | ✅ |
 | Part 21 | Advantages of Stored Procedures (Execution Plan Reuse, Reduced Network Traffic, Code Reusability, Better Security & SQL Injection      Prevention) | ✅ |
 | Part 22 | String Functions (ASCII, CHAR, LTRIM, RTRIM, UPPER, LOWER, REVERSE & LEN) | ✅ |
+| Part 23 | String Functions Continued (LEFT, RIGHT, CHARINDEX, SUBSTRING & Real-Time Email Domain Example) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
