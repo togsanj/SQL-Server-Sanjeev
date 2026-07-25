@@ -22,6 +22,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 18 - Stored Procedures (WITH Input Parameters)
 - ✅ Part 19 - Stored Procedures (WITH Output Parameters)
 - ✅ Part 20 - Stored Procedures (Return Values vs Output Parameters)
+- ✅ Part 21 - Advantages of Stored Procedures
 
 ## 📚 SQL Server Topics
 
@@ -45,6 +46,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 18 | Stored Procedures (CREATE, EXECUTE, Input Parameters, ALTER, DROP, sp_helptext & WITH ENCRYPTION) | ✅ |
 | Part 19 | Stored Procedures (Output Parameters, sp_help, sp_helptext & sp_depends) | ✅ |
 | Part 20 | Stored Procedures (Return Values, Return Status, OUTPUT Parameters vs Return Values & Best Practices) | ✅ |
+| Part 21 | Advantages of Stored Procedures (Execution Plan Reuse, Reduced Network Traffic, Code Reusability, Better Security & SQL Injection Prevention) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
