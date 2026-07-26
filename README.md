@@ -25,6 +25,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 21 - Advantages of Stored Procedures
 - ✅ Part 22 - String Functions (ASCII, CHAR, LTRIM, RTRIM, UPPER, LOWER, REVERSE & LEN)
 - ✅ Part 23 - String Functions Continued (LEFT, RIGHT, CHARINDEX & SUBSTRING)
+- ✅ Part 24 - String Functions Continued (REPLICATE, SPACE, PATINDEX, REPLACE & STUFF)
 
 ## 📚 SQL Server Topics
 
@@ -51,6 +52,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 21 | Advantages of Stored Procedures (Execution Plan Reuse, Reduced Network Traffic, Code Reusability, Better Security & SQL Injection      Prevention) | ✅ |
 | Part 22 | String Functions (ASCII, CHAR, LTRIM, RTRIM, UPPER, LOWER, REVERSE & LEN) | ✅ |
 | Part 23 | String Functions Continued (LEFT, RIGHT, CHARINDEX, SUBSTRING & Real-Time Email Domain Example) | ✅ |
+| Part 24 | String Functions Continued (REPLICATE, SPACE, PATINDEX, REPLACE & STUFF, Email Masking & Text Manipulation) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
