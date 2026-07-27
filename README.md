@@ -32,6 +32,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 28 - CAST() & CONVERT() Functions
 - ✅ Part 29 - Mathematical Functions (ABS, CEILING, FLOOR, POWER, RAND, SQUARE, SQRT & ROUND)
 - ✅ Part 30 - User Defined Functions (Scalar UDF, Creating, Calling, Using in SELECT & WHERE Clause, ALTER & DROP Function)
+- ✅ Part 31 - Inline Table Valued Functions (Creating, Calling, Parameterized Views & JOINs)
 
 ## 📚 SQL Server Topics
 
@@ -65,6 +66,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 28 | CAST() & CONVERT() Functions (Data Type Conversion, Style Codes, Date Formatting, Practical Examples & CAST vs CONVERT) | ✅ |
 | Part 29 | Mathematical Functions (ABS, CEILING, FLOOR, POWER, RAND, SQUARE, SQRT & ROUND, Random Number Generation, Rounding & Truncation) | ✅ 
 | Part 30 | User Defined Functions (Scalar UDF, Types of UDFs, Creating & Calling Scalar UDF, Using UDF in SELECT & WHERE Clause, ALTER FUNCTION, DROP FUNCTION & sp_helptext) | ✅ |
+| Part 31 | Inline Table Valued Functions (Creating & Calling Inline TVF, RETURNS TABLE, Parameterized Views, Using TVFs in WHERE Clause & JOINs) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
