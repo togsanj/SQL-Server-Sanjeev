@@ -19,13 +19,13 @@ GETUTCDATE()      |   2012-08-31 19:15:04.543            | UTC Date and Time
 SYSUTCDATETIME()  |   2012-08-31 19:15:04.5380028        | UTC Date and Time, with More fractional seconds precision
 */
 
-Function          |    Date Time Format                  | Description   
-GETDATE()         |   2026-07-26 19:45:30.123           | Commonly used
-CURRENT_TIMESTAMP |   2026-07-26 19:45:30.123           | ANSI SQL equivalent to GETDATE
-SYSDATETIME()     |   2026-07-26 19:45:30.1234567        |  More fractional seconds precision
-SYSDATETIMEOFFSET()|  2026-07-26 19:45:30.1234567 +05:30  | More fractional seconds precision + Time zone offset
-GETUTCDATE()      |   2026-07-26 14:15:30.123             | UTC Date and Time
-SYSUTCDATETIME()  |   2026-07-26 14:15:30.1234567         | UTC Date and Time, with More fractional seconds precision
+Function            |    Date Time Format                   | Description   
+GETDATE()           |   2026-07-26 19:45:30.123             | Commonly used
+CURRENT_TIMESTAMP |   2026-07-26 19:45:30.123             | ANSI SQL equivalent to GETDATE
+SYSDATETIME()       |   2026-07-26 19:45:30.1234567         |  More fractional seconds precision
+SYSDATETIMEOFFSET() |  2026-07-26 19:45:30.1234567 +05:30   | More fractional seconds precision + Time zone offset
+GETUTCDATE()        |   2026-07-26 14:15:30.123             | UTC Date and Time
+SYSUTCDATETIME()    |   2026-07-26 14:15:30.1234567         | UTC Date and Time, with More fractional seconds precision
 
 
 

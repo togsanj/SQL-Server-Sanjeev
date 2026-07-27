@@ -27,6 +27,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 23 - String Functions Continued (LEFT, RIGHT, CHARINDEX & SUBSTRING)
 - ✅ Part 24 - String Functions Continued (REPLICATE, SPACE, PATINDEX, REPLACE & STUFF)
 - ✅ Part 25 - DateTime Data Types (TIME, DATE, SMALLDATETIME, DATETIME, DATETIME2 & DATETIMEOFFSET) and DateTime Functions (GETDATE, CURRENT_TIMESTAMP, SYSDATETIME, SYSDATETIMEOFFSET, GETUTCDATE & SYSUTCDATETIME)
+- ✅ Part 26 - DateTime Functions Continued (ISDATE, DAY, MONTH, YEAR & DATENAME)
 
 ## 📚 SQL Server Topics
 
@@ -55,6 +56,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 23 | String Functions Continued (LEFT, RIGHT, CHARINDEX, SUBSTRING & Real-Time Email Domain Example) | ✅ |
 | Part 24 | String Functions Continued (REPLICATE, SPACE, PATINDEX, REPLACE & STUFF, Email Masking & Text Manipulation) | ✅ |
 | Part 25 | DateTime Data Types (TIME, DATE, SMALLDATETIME, DATETIME, DATETIME2 & DATETIMEOFFSET), DateTime Functions (GETDATE, CURRENT_TIMESTAMP, SYSDATETIME, SYSDATETIMEOFFSET, GETUTCDATE & SYSUTCDATETIME), UTC & Time Zone Offset | ✅ |
+| Part 26 | DateTime Functions Continued (ISDATE, DAY, MONTH, YEAR & DATENAME, Extracting Date Parts) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
