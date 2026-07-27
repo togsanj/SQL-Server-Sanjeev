@@ -30,6 +30,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 26 - DateTime Functions Continued (ISDATE, DAY, MONTH, YEAR & DATENAME)
 - ✅ Part 27 - DATEPART(), DATEADD(), DATEDIFF() & Scalar User Defined Function (Age Calculation)
 - ✅ Part 28 - CAST() & CONVERT() Functions
+- ✅ Part 29 - Mathematical Functions (ABS, CEILING, FLOOR, POWER, RAND, SQUARE, SQRT & ROUND)
 
 ## 📚 SQL Server Topics
 
@@ -61,6 +62,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 26 | DateTime Functions Continued (ISDATE, DAY, MONTH, YEAR & DATENAME, Extracting Date Parts) | ✅ |
 | Part 27 | DATEPART(), DATEADD(), DATEDIFF() & Scalar User Defined Function (Age Calculation) | ✅ |
 | Part 28 | CAST() & CONVERT() Functions (Data Type Conversion, Style Codes, Date Formatting, Practical Examples & CAST vs CONVERT) | ✅ |
+| Part 29 | Mathematical Functions (ABS, CEILING, FLOOR, POWER, RAND, SQUARE, SQRT & ROUND, Random Number Generation, Rounding & Truncation) | ✅ 
 | More | Coming Soon | 🚀 |
 
 ---
