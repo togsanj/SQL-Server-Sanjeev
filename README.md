@@ -31,6 +31,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 27 - DATEPART(), DATEADD(), DATEDIFF() & Scalar User Defined Function (Age Calculation)
 - ✅ Part 28 - CAST() & CONVERT() Functions
 - ✅ Part 29 - Mathematical Functions (ABS, CEILING, FLOOR, POWER, RAND, SQUARE, SQRT & ROUND)
+- ✅ Part 30 - User Defined Functions (Scalar UDF, Creating, Calling, Using in SELECT & WHERE Clause, ALTER & DROP Function)
 
 ## 📚 SQL Server Topics
 
@@ -63,6 +64,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 27 | DATEPART(), DATEADD(), DATEDIFF() & Scalar User Defined Function (Age Calculation) | ✅ |
 | Part 28 | CAST() & CONVERT() Functions (Data Type Conversion, Style Codes, Date Formatting, Practical Examples & CAST vs CONVERT) | ✅ |
 | Part 29 | Mathematical Functions (ABS, CEILING, FLOOR, POWER, RAND, SQUARE, SQRT & ROUND, Random Number Generation, Rounding & Truncation) | ✅ 
+| Part 30 | User Defined Functions (Scalar UDF, Types of UDFs, Creating & Calling Scalar UDF, Using UDF in SELECT & WHERE Clause, ALTER FUNCTION, DROP FUNCTION & sp_helptext) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
