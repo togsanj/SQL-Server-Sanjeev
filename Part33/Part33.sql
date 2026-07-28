@@ -160,5 +160,35 @@ DROP TABLE dbo.tblEmployees;
 -- Error: Cannot DROP TABLE because it is referenced
 -- by the schema-bound function.
 
-
-   
+/*
+1. What is a deterministic function in SQL Server?
+2. What is a non-deterministic function?
+3. What is the difference between deterministic and non-deterministic functions?
+4. Give examples of deterministic functions.
+5. Give examples of non-deterministic functions.
+6. Is GETDATE() deterministic or non-deterministic? Why?
+7. Is CURRENT_TIMESTAMP deterministic or non-deterministic?
+8. Why is RAND() considered a non-deterministic function?
+9. How can RAND() become deterministic?
+10. What is the purpose of a seed value in the RAND() function?
+11. What is WITH ENCRYPTION in SQL Server?
+12. Why is WITH ENCRYPTION used?
+13. Can you view the source code of an encrypted function?
+14. Which system stored procedure is used to view a function definition?
+15. What happens when you execute sp_helptext on an encrypted function?
+16. What is SCHEMABINDING in SQL Server?
+17. Why is SCHEMABINDING used?
+18. What are the advantages of SCHEMABINDING?
+19. Why must the table name be schema-qualified (e.g., dbo.tblEmployees) when using SCHEMABINDING?
+20. What happens if you try to drop a table referenced by a schema-bound function?
+21. Can you alter or drop a schema-bound table directly?
+22. How do you remove a schema-bound dependency before modifying a table?
+23. What is the difference between WITH ENCRYPTION and WITH SCHEMABINDING?
+24. Are aggregate functions deterministic? Explain.
+25. Is COUNT() a deterministic function? Why?
+26. What is the difference between RAND() and RAND(seed)?
+27. What are the real-world uses of WITH ENCRYPTION?
+28. What are the real-world uses of SCHEMABINDING?
+29. What is the difference between GETDATE() and CURRENT_TIMESTAMP?
+30. How do deterministic and non-deterministic functions affect SQL Server performance and indexing?
+*/
