@@ -35,6 +35,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 31 - Inline Table Valued Functions (Creating, Calling, Parameterized Views & JOINs)
 - ✅ Part 32 - Multi-Statement Table Valued Functions (Creating MSTVF, RETURNS @Table TABLE, Inline TVF vs MSTVF, Performance Comparison & Update Behaviour)
 - ✅ Part 33 - Functions Important Concepts (Deterministic & Non-Deterministic Functions, WITH ENCRYPTION & SCHEMABINDING)
+- ✅ Part 34 - Temporary Tables (Local Temporary Tables, Global Temporary Tables, TempDB, Stored Procedures & Local vs Global Temporary Tables)
 
 ## 📚 SQL Server Topics
 
@@ -71,6 +72,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 31 | Inline Table Valued Functions (Creating & Calling Inline TVF, RETURNS TABLE, Parameterized Views, Using TVFs in WHERE Clause & JOINs) | ✅ |
 | Part 32 | Multi-Statement Table Valued Functions (Creating & Calling MSTVF, RETURNS @Table TABLE, BEGIN...END Block, Returning Table Variables, Inline TVF vs Multi-Statement TVF, Performance Comparison & Update Behaviour) | ✅ |
 | Part 33 | Functions Important Concepts (Deterministic & Non-Deterministic Functions, RAND() with Seed, WITH ENCRYPTION, SCHEMABINDING & sp_helptext) | ✅ |
+| Part 34 | Temporary Tables (Local Temporary Tables, Global Temporary Tables, TempDB, Creating & Dropping Temporary Tables, Temporary Tables in Stored Procedures, Local vs Global Temporary Tables & TempDB System Objects) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
