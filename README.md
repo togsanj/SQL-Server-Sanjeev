@@ -36,6 +36,7 @@ This repository contains my SQL Server practice and learning journey. It include
 - ✅ Part 32 - Multi-Statement Table Valued Functions (Creating MSTVF, RETURNS @Table TABLE, Inline TVF vs MSTVF, Performance Comparison & Update Behaviour)
 - ✅ Part 33 - Functions Important Concepts (Deterministic & Non-Deterministic Functions, WITH ENCRYPTION & SCHEMABINDING)
 - ✅ Part 34 - Temporary Tables (Local Temporary Tables, Global Temporary Tables, TempDB, Stored Procedures & Local vs Global Temporary Tables)
+- ✅ Part 35 - Indexes (Creating Indexes, Why Indexes, Table Scan, Index Seek, Viewing & Dropping Indexes)
 
 ## 📚 SQL Server Topics
 
@@ -73,6 +74,7 @@ This repository contains my SQL Server practice and learning journey. It include
 | Part 32 | Multi-Statement Table Valued Functions (Creating & Calling MSTVF, RETURNS @Table TABLE, BEGIN...END Block, Returning Table Variables, Inline TVF vs Multi-Statement TVF, Performance Comparison & Update Behaviour) | ✅ |
 | Part 33 | Functions Important Concepts (Deterministic & Non-Deterministic Functions, RAND() with Seed, WITH ENCRYPTION, SCHEMABINDING & sp_helptext) | ✅ |
 | Part 34 | Temporary Tables (Local Temporary Tables, Global Temporary Tables, TempDB, Creating & Dropping Temporary Tables, Temporary Tables in Stored Procedures, Local vs Global Temporary Tables & TempDB System Objects) | ✅ |
+| Part 35 | Indexes (Introduction to Indexes, Why Indexes, Creating Indexes, Table Scan vs Index Seek, Viewing Indexes using sp_helpindex & Dropping Indexes) | ✅ |
 | More | Coming Soon | 🚀 |
 
 ---
